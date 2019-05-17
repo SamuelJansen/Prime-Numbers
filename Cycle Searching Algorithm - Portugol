@@ -7,6 +7,12 @@ The second list is made by the Cycle Searching Algorithm (CSA) - original paper 
 Both lists contains all prime numbers 
 from the smallest one up to the 910077th one
 
+Each list is attached to a .txt file on the diretory of the compiled code (after it runs)
+List_of_prime_numbers_obtained_by_Standard_Searching.txt
+List_of_prime_numbers_obtained_by_Cycle_Searching.txt
+
+This website can be used for results analysis: https://pt.numberempire.com/13999981
+
 This program was written in portugol programming language 
 for a 1st semester Logic Progrmming graduatting course: TADS, at IFRS
 (compiled on PortugolStudio - Univali) - http://lite.acad.univali.br/portugol/
