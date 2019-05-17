@@ -1,6 +1,7 @@
 /*
-3. Faça uma função que recebe por parâmetro um valor inteiro e positivo e retorna o valor
-lógico Verdadeiro caso o valor seja primo e Falso em caso contrário.
+This program is and adaptation of CSS algorithm for a C++ programming course
+
+Check original work at https://github.com/SamuelJansen/Prime-Numbers/
 */
 
 //- Libraries
