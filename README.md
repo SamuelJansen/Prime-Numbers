@@ -8,4 +8,4 @@ One more deep analysis can lead to an n-dimentional graph that contains all prim
 while all possible prime numbers must lie on insider edges and vertices
 
 The code was first made in Portugol language (compiled on PortugolStudio software of Univali, SP - Brazil).
-A simple papper (original version) is attached to this repository, with more deep discussion about the code.
+A simple papper (original version) is attached to this repository, with deeper discussion about the code.
